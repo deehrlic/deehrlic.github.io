@@ -251,7 +251,7 @@ export const HighlightCardDemo = React.memo(function HighlightCard() {
             brand={'Thesis Film'}
             date={'Spring 2021'}
             cover={
-              process.env.PUBLIC_URL + '/drew_still.PNG'
+              process.env.PUBLIC_URL + '/drew_still.png'
             }
             logo={
               process.env.PUBLIC_URL + '/website.png'
