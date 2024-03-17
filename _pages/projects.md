@@ -53,7 +53,7 @@ For the second video, Team Liquid flew my team and I out to Los Angeles to spend
 
 This contract work has resulted in two published pieces of video content that feature my engineering work prominently.
 
-![Screenshot from the second project](..\images\corevid.png)
+![Screenshot from the second project](..\images\corevid.PNG)
 
 [Can CoreJJ play with an IRL Thresh Hook?!, 2022](https://www.youtube.com/watch?v=wSxBeZ2eKws)
 
@@ -63,7 +63,7 @@ This contract work has resulted in two published pieces of video content that fe
 
 I participated in many hackathons as an undergraduate as excuses to learn new things and as a creative outlet - if the project idea didn't make me laugh, I probably wasn't interested. Here are some of my personal favorite projects that I was a part of. My full Devpost profile can be found [here](https://devpost.com/deehrlic).
 
-![Cover images for hackathon projects](..\images\hackphotos.png)
+![Cover images for hackathon projects](..\images\hackphotos.PNG)
 
 [Archie, Warmer of Snacks - Winner, Best Hardware Hack, CruzHacks 2021](https://devpost.com/software/pi-heating-doohickey)
 
