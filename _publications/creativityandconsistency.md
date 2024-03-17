@@ -1,0 +1,13 @@
+---
+title: "Creativity and Consistency in Musical Perception of Tangible Objects"
+collection: publications
+citation: Stefany Arevalo Escobar, Akash Chaudhary, Drew Ehrlich, Adam M. Smith
+permalink: /publication/creativityandconsistency
+excerpt: 'Interacting with tangible objects can enhance our immersion in and the understanding of the experience of music. Associating tactile properties with sounds is an inherently creative process, but we lack a quantitative perceptual basis for these associations. A better understanding of this process of creative association can open new avenues for music appreciation or enhanced tangible musical experiences. When presented with a collection of objects and a collection of music, we found that study participants often associated specific objects with specific songs in consistent ways, while still using various creative ways to make these associations. Their explanations for the matchings identified possible salient perceptual features present in these pairings. Along with the results of our study, we offer a categorization of perceptual relations that can help us design meaningful physical representations of music in the future. With these understandings, we provide a basis for a new aspect of creativity research in music perception of tangible objects.'
+date: '2023-05-25'
+venue: 'UCSC Technical Reports'
+paperurl: 'https://tr.soe.ucsc.edu/research/technical-reports/UCSC-SOE-23-08'
+---
+Interacting with tangible objects can enhance our immersion in and the understanding of the experience of music. Associating tactile properties with sounds is an inherently creative process, but we lack a quantitative perceptual basis for these associations. A better understanding of this process of creative association can open new avenues for music appreciation or enhanced tangible musical experiences. When presented with a collection of objects and a collection of music, we found that study participants often associated specific objects with specific songs in consistent ways, while still using various creative ways to make these associations. Their explanations for the matchings identified possible salient perceptual features present in these pairings. Along with the results of our study, we offer a categorization of perceptual relations that can help us design meaningful physical representations of music in the future. With these understandings, we provide a basis for a new aspect of creativity research in music perception of tangible objects.
+
+[Download paper here](https://tr.soe.ucsc.edu/sites/default/files/technical-reports/UCSC-SOE-23-08.pdf)
