@@ -1,0 +1,13 @@
+---
+title: "Designing Tangible Devices and Interfaces for Closing Institutional Resource Gaps in Neuroscience"
+collection: publications
+citation: Drew Ehrlich
+permalink: /publication/tei
+excerpt: 'Scientific laboratories are full of tangible and interactive interfaces and devices. However, design principles for the creation of these systems are either seen as industry secrets by scientific manufacturing companies or are too decentralized to be easily collected. The rise of the open science and open hardware movements has made creating tangible devices for the laboratory more accessible than ever, but research on design methods for their creation is not nearly as approachable. This leads to a gap between the institutions that have the resources to purchase professionally designed tools and those that either have to settle for running less effective laboratories or try and devise effective design methods for creating these tangible tools themselves. My research seeks to help close this gap by exploring methods for doing user-centered tangible hardware design research with laboratory scientists and creating some tangible interactive tools and interfaces for use in scientific laboratories.'
+date: '2025-03-04'
+venue: 'Nature Neuroscience'
+paperurl: 'https://dl.acm.org/doi/full/10.1145/3689050.3704794'
+---
+Scientific laboratories are full of tangible and interactive interfaces and devices. However, design principles for the creation of these systems are either seen as industry secrets by scientific manufacturing companies or are too decentralized to be easily collected. The rise of the open science and open hardware movements has made creating tangible devices for the laboratory more accessible than ever, but research on design methods for their creation is not nearly as approachable. This leads to a gap between the institutions that have the resources to purchase professionally designed tools and those that either have to settle for running less effective laboratories or try and devise effective design methods for creating these tangible tools themselves. My research seeks to help close this gap by exploring methods for doing user-centered tangible hardware design research with laboratory scientists and creating some tangible interactive tools and interfaces for use in scientific laboratories.
+
+Paper Link: [https://dl.acm.org/doi/full/10.1145/3689050.3704794](https://dl.acm.org/doi/full/10.1145/3689050.3704794)

@@ -5,17 +5,51 @@ permalink: /projects/
 author_profile: true
 ---
 
+**High Throughput In-Incubator Fluorescence Microscope**
+
+As a part of my work as a researcher at the UC Santa Cruz Genomics Institute, I designed and developed a modular open source microscopy framework for creating live cell fluorescence imaging systems that can operate inside the hot and humid conditions of a cell culture incubator (37 degrees C/5% CO2 concentration). This work included designing and selecting optical microscopy components, fabricating custom motion systems that can operate safely inside of the incubator, and writing firmware and software and control systems that allow for the continuous operation of this system and the high-throughput capture of images without damaging live samples. To demonstrate the effectiveness of my system, I worked with biologists affiliated with my research group to conduct long term live cell imaging experiment with run times anywhere from 2 days to 2 weeks, with imaging intervals measured in minutes. 
+
+I have created versions of this system that can perform single and multi-color fluorescence, as well as having optional plate-scanning capabilities through the use of a custom three axis motion stage. As part of other collaborations (see below sections), I have also developed experiment-specific versions of the microsope meant for long-term in-incubator brightfield imaging.
+
+As of January 2026, I have published our preprint for this system, with a journal submission in progress.
+
+[LINK TO PREPRINT](https://www.biorxiv.org/content/10.64898/2026.01.20.699789v1)
+
+Figure from preprint showing the design of our system:
+
+<img src="..\images\F1l.jpg" width="500">
+
+Figure from preprint demonstrating longitudinal capabilities of microscopy system, each sqaure in the grid is approximately 8 hours - images were taken every 2 minutes, but this figure shows an abridged data set for visual clarity:
+
+<img src="..\images\F4l.jpg" width="500">
+
+
 **Remote Microscopy for Education**
 
-In collaboration with the Live Cell Biotechnology Discovery Lab at the UC Santa Cruz Genomics Institute, I have provided the use of the microscope I am developing as a part of my PhD for livestreamed science education experiments. This has taken the form of modifying and programming the microscope to capture brightfield images of cell cultures that have been chosen by the participating students and make the results accessible in near real-time online. We have collaborated with multiple schools in multiple countries as part of a broader initiative to make laboratory neuroscience more accessible in areas that don't have the resources to perform these experiments themselves. We are still continuing to perform these experiments throught 2024.
+In collaboration with the Live Cell Biotechnology Discovery Lab at the UC Santa Cruz Genomics Institute, I have provided the use of a brightfield variant of the microscope described in the previous section for livestreamed science education experiments. This has taken the form of modifying and programming the microscope to capture brightfield images of cell cultures that have been chosen by the participating students and make the results accessible in near real-time online. We have collaborated with multiple schools in multiple countries as part of a broader initiative to make laboratory neuroscience more accessible in areas that don't have the resources to perform these experiments themselves. We are still continuing to perform these experiments throught 2026.
 
-My contribution to this work has been to provide and manage custom imaging equipment, software, and livestreaming. This work has resulted in contributions to two publications so far, with a paper about the design of the microscope itself still in development.
+My contribution to this work has been to provide and manage custom imaging equipment, software, and livestreaming. This work has resulted in contributions three publications so far.
 
-![Figure from Elliott et al. which features prototype of microscope.](..\images\elliottpaper.jpg)
+[Cloud-Connected Pluripotent Stem Cell Platform Enhances Scientific Identity in Underrepresented Students, bioRxiv 2026](https://www.biorxiv.org/content/10.64898/2026.01.19.699793v1)
 
 [Internet-connected cortical organoids for project-based stem cell and neuroscience education, eNeuro, 2023](https://www.eneuro.org/content/10/12/ENEURO.0308-23.2023.full)
 
 [Cloud-controlled microscopy enables remote project-based biology education in underserved Latinx communities, Heliyon, 2021](https://www.sciencedirect.com/science/article/pii/S2405844022028845)
+
+Visual abstract for the most recent publication, of which I am the second author:
+
+<img src="..\images\sf3.jpg" width="500">
+
+**Seru-Otchi: Laboratory Protocol Training Game for Undergraduates**
+
+Undergraduate students looking to join a scientific laboratory often have to read intimidating and dense academic articles that are very difficult to derive knowledge from unless you have experience with reading them. This work, a collaboration between Dr. Victoria Ly, Dr. Jess Sevetson, and myself, looks to help lower the barrier to entry for undergraduates joining a lab by supplementing the academic materials with an interactive browser based experience that creates a interactive version of the paper used by Dr. Sevetson to teach new students cell culture.
+
+This work and the study we did to validate it has resulted in a paper that been published in Heliyon, a Cell Press journal.
+
+[Gamifying cell culture training: The ‘Seru-Otchi’ experience for undergraduates](https://www.cell.com/heliyon/fulltext/S2405-8440(24)06500-9)
+
+<img src="..\images\game.png">
+
 
 
 **PolyPhy: 3D Printing Slime Mold Structures**
@@ -35,15 +69,6 @@ The earlier versions of this project formed the basis for my bachelor's and mast
 [Scaffolding Generation using a 3D Physarum Polycephalum Simulation, ACM Symposium on Computational Fabrication, 2022](https://arxiv.org/pdf/2212.11527.pdf)
 
 [Printing the Polyphorm: Using 3D Printing to Manufacture Biologically Inspired Rhizomatic Structures, University of California, Santa Cruz,2021](https://escholarship.org/uc/item/1md0s4qv)
-
-
-**Seru-Otchi: Laboratory Protocol Training Game for Undergraduates**
-
-Undergraduate students looking to join a scientific laboratory often have to read intimidating and dense academic articles that are very difficult to derive knowledge from unless you have experience with reading them. This work, a collaboration between Victoria Ly, Dr. Jess Sevetson, and myself, looks to help lower the barrier to entry for undergraduates joining a lab by supplementing the academic materials with an interactive browser based game that creates a interactive version of the paper used by Dr. Sevetson to teach new students cell culture.
-
-This work and the study we did to validate it has resulted in a paper that is currently in review at a scientific journal.
-
-![Screenshot of the educational game](..\images\game.png)
 
 **Alternate Controllers for Team Liquid**
 
